@@ -6,7 +6,7 @@ const app = express();
 app.get('/', (req, res) => {
   return res.send({
     "downloadLink":"https://drive.google.com/file/d/1-C8_uP2OsplP3IvMcSIUFsML0T33ni7Z/view?usp=drive_link",
-    "version":2,
+    "version":1,
 });
 });
 

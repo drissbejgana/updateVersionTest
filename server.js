@@ -5,7 +5,7 @@ const app = express();
 
 app.get('/', (req, res) => {
   return res.send({
-    "downloadLink":"https://drive.google.com/file/d/1-C8_uP2OsplP3IvMcSIUFsML0T33ni7Z/view?usp=drive_link",
+    "downloadLink":"https://www.dropbox.com/scl/fo/ufgiajxp1a591rkmieqij/h?rlkey=2zxj70opyjk7w4m53mi281voj&dl=0",
     "version":2,
 });
 });
